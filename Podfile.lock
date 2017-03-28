@@ -1,0 +1,12 @@
+PODS:
+  - MJRefresh (3.1.12)
+
+DEPENDENCIES:
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+
+PODFILE CHECKSUM: 39c692f3b2e6af5cd18eacf8fb64f8dddd3f8bc7
+
+COCOAPODS: 1.2.0

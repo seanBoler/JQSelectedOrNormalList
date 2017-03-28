@@ -1,0 +1,6 @@
+framework module Pods_TableViewSelectedCell {
+  umbrella header "Pods-TableViewSelectedCell-umbrella.h"
+
+  export *
+  module * { export * }
+}
